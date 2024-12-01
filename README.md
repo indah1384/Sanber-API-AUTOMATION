@@ -1,4 +1,4 @@
-![WhatsApp Image 2024-11-30 at 14 56 10_57de98ba](https://github.com/user-attachments/assets/77cd8e83-2665-469d-b126-f1bd23c5d074)# API AUTOMATION - KASIRAJA
+# API AUTOMATION - KASIRAJA
 Sanber API Automation adalah project pengujian otomatisasi API menggunakan Postman. Project ini mencakup pengujian endpoint API dan memastikan bahwa semua respon sesuai dengan spesifikasi yang diharapkan.
 
 ## Teknologi yang digunakan
