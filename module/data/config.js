@@ -1,0 +1,1 @@
+export const baseUrl = "http://kasiraja-kasir-6d14e7-776927-46-250-233-198.traefik.me"

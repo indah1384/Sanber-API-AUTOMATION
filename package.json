@@ -1,0 +1,19 @@
+{
+  "name": "sanber-api-automation",
+  "version": "1.0.0",
+  "description": "api automation script with supertest",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "api"
+  ],
+  "author": "indah",
+  "license": "ISC",
+  "dependencies": {
+    "chai": "^5.1.2",
+    "mocha": "^10.8.2",
+    "supertest": "^7.0.0"
+  }
+}
