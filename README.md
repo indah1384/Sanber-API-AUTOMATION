@@ -15,6 +15,7 @@ cd sanber-API-AUTOMATION
 
 - Post Registration
 ![Hasil Run Postman](module/assets/1.png)
+D:\Automation\Sanber-API-AUTOMATION\module\assets\1.jpg
 
 - Post Authentication
 ![Hasil Run Postman](module/assets/2.png)
