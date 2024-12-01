@@ -18,16 +18,16 @@ cd sanber-API-AUTOMATION
 
 
 - Post Authentication
-![Hasil Run Postman](module/assets/2.png)
+![Hasil Run Postman](https://github.com/indah1384/Sanber-API-AUTOMATION/blob/main/module/assets/2.jpg?raw=true)
 
 - Post users
-![Hasil Run Postman](module/assets/3.png)
+![Hasil Run Postman](https://github.com/indah1384/Sanber-API-AUTOMATION/blob/main/module/assets/3.jpg?raw=true)
 
 - Update users 
-![Hasil Run Postman](module/assets/4.png)
+![Hasil Run Postman](https://github.com/indah1384/Sanber-API-AUTOMATION/blob/main/module/assets/4.jpg?raw=true)
 
 - Delete users 
-![Hasil Run Postman](module/assets/5.png)
+![Hasil Run Postman](https://github.com/indah1384/Sanber-API-AUTOMATION/blob/main/module/assets/5.jpg?raw=true)
 
 
 
