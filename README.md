@@ -14,19 +14,19 @@ cd sanber-API-AUTOMATION
 4 endpoint dengan > 2 assertion pada setiap endpointnya
 
 - Post Registration
-![Hasil Run Postman](assets/1.png)
+![Hasil Run Postman](module/assets/1.png)
 
 - Post Authentication
-![Hasil Run Postman](assets/2.png)
+![Hasil Run Postman](module/assets/2.png)
 
 - Post users
-![Hasil Run Postman](assets/3.png)
+![Hasil Run Postman](module/assets/3.png)
 
 - Update users 
-![Hasil Run Postman](assets/4.png)
+![Hasil Run Postman](module/assets/4.png)
 
 - Delete users 
-![Hasil Run Postman](assets/5.png)
+![Hasil Run Postman](module/assets/5.png)
 
 
 
