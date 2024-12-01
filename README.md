@@ -3,7 +3,6 @@ Sanber API Automation adalah project pengujian otomatisasi API menggunakan Postm
 
 ## Teknologi yang digunakan
 - Postman: Untuk pengujian API manual dan collection automation.
-- Cypress: Untuk automation testing berbasis JavaScript.
 - Git: Untuk version control.
 
 ## Cara menjalankan
